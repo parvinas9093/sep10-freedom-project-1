@@ -1,22 +1,23 @@
-# SEP11 Freedom Project
-by X
+# SEP10 Freedom Project
+by **X**
 
 ## Context
-The "Freedom Project" for SEP11 is all about X. The purpose of this blog is to X.
+I am a student at HSTAT in the [Software Engineering Program](https://hstatsep.github.io/). The "Freedom Project" for SEP10 is all about making a website that informs the viewer of the current and future innovations in the topic of my choosing.
 
-## Content
-For my project, I am making X. This blog will walk through my process of independently studying X in order to make X.
+For my project, I chose the topic of **X**. 
+I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **X** in order to help me make by website.
 
 ## Links
 
-Product
+[Product]()
 
-Presentation
+[Presentation]()
 
 ## Implications
 X
 
----
+## Blog
+Below you will find my blog about how I made my website.
 
 * [Blog Entry 1](entries/entry01.md)
 * [Blog Entry 2](entries/entry02.md)
