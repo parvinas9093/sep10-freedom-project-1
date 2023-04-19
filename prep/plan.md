@@ -1,12 +1,20 @@
 # Plan
 
+## Wireframes
+* [Mobile]()
+* [Desktop]()
+
 ## Colors
-* 
+* `#ABC123`
 
 ## Timeline
 
 #### MVP
-* Task by X/X
+
+* Task/Timeline
+
+---
 
 #### Beyond MVP
+
 * Task
