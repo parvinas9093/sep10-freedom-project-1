@@ -2,7 +2,7 @@
 by **X**
 
 ## Context
-I am a student at HSTAT in the [Software Engineering Program](https://hstatsep.github.io/). The "Freedom Project" for SEP10 is all about making a website that informs the viewer of the current and future innovations in the topic of my choosing.
+I am a student at [HSTAT](https://www.hstat.org/) in the [Software Engineering Program](https://hstatsep.github.io/). The "Freedom Project" for SEP10 is all about making a website that informs the viewer of the current and future innovations in the topic of my choosing.
 
 For my project, I chose the topic of **X**. 
 
@@ -15,7 +15,11 @@ I used HTML, CSS, Bootstrap, and Github. I also chose to independently study **X
 [Presentation]()
 
 ## Implications
-X
+##### PROS
+* 
+##### CONS
+* 
+
 
 ## Blog
 Below you will find my blog about how I made my website.
