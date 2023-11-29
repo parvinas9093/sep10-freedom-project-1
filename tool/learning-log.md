@@ -1,13 +1,13 @@
 # Tool Learning Log
 
-Tool: **X**
+## Tool: **X**
 
 ---
 
-X/X/XX:
+### X/X/XX:
 * Text
 
-X/X/XX:
+### X/X/XX:
 * Text
 
 
